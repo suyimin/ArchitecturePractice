@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ArchitecturePractice</string>
+
+    <string name="network_error">当前网络环境不好，请稍后再试哦~</string>
+
+    <!-- GirlFragment begin -->
+    <string name="girl_title">Beautiful Girl</string>
+    <string name="girl_photo_describe">PhotoViewForTest</string>
+    <string name="girl_save">妹子不错，快开车~</string>
+    <string name="girl_save_succeed">恭喜你，已上车，请系好安全带，马上将要发车啦</string>
+    <string name="girl_save_failed">阿偶出错了呢</string>
+    <!-- GirlFragment end -->
+
+    <!-- AboutActivity begin -->
+    <string name="about">about</string>
+    <string name="about_activity_title">About</string>
+    <string name="about_contact_me">Contact Me</string>
+    <string name="about_github"><![CDATA[\t Github: <font color=\'#3F51B5\'>%s</font>]]></string>
+    <string name="about_weibo"><![CDATA[\t Weibo: <font color=\'#3F51B5\'>%s(lijiankun24)</font>]]></string>
+    <string name="about_blog"><![CDATA[\t Blog: <font color=\'#3F51B5\'>%s</font>]]></string>
+    <string name="about_jianshu"><![CDATA[\t Jianshu: <font color=\'#3F51B5\'>%s</font>]]></string>
+    <string name="about_mail"><![CDATA[\t Mail: <font color=\'#3F51B5\'>%s</font>]]></string>
+    <!-- AboutActivity end -->
+</resources>
