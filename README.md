@@ -2,19 +2,10 @@
 
 I wrote an article to introduce this project named of ArchitecturePractice.
 
-* [Android 应用架构组件（Architecture Components）实践](http://lijiankun24.com/Android-应用架构组件（Architecture-Components）实践/)
-
-Scan below QR code to download the apk.
-<div align=center>
-    <img src="screenshot/QR.png" width="270" height="258"/>
-</div>
+* [Android 应用架构组件（Architecture Components）实践](http://blog.csdn.net/suyimin2010/article/details/79383432)
 
 I would introduce the structure of ArchitecturePractice by way of the Zhihu portion.
 ### ZhihuList
-You should to complete the view below and you have two apis to access Zhihu List.
-<div align=center>
-    <img src="screenshot/ZhihuList.jpg" width="540" height="960"/>
-</div>
 
 ```
   // 请求最新的知乎列表（下拉刷新）
