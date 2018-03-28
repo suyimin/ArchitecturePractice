@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ArchitecturePractice</string>
+    <string name="app_name">Architecture</string>
 
     <string name="network_error">当前网络环境不好，请稍后再试哦~</string>
 
@@ -16,7 +16,7 @@
     <string name="about_activity_title">About</string>
     <string name="about_contact_me">Contact Me</string>
     <string name="about_github"><![CDATA[\t Github: <font color=\'#3F51B5\'>%s</font>]]></string>
-    <string name="about_weibo"><![CDATA[\t Weibo: <font color=\'#3F51B5\'>%s(lijiankun24)</font>]]></string>
+    <string name="about_weibo"><![CDATA[\t Weibo: <font color=\'#3F51B5\'>%s</font>]]></string>
     <string name="about_blog"><![CDATA[\t Blog: <font color=\'#3F51B5\'>%s</font>]]></string>
     <string name="about_jianshu"><![CDATA[\t Jianshu: <font color=\'#3F51B5\'>%s</font>]]></string>
     <string name="about_mail"><![CDATA[\t Mail: <font color=\'#3F51B5\'>%s</font>]]></string>

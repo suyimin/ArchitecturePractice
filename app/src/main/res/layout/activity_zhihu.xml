@@ -54,7 +54,7 @@
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
 
-                <com.lijiankun24.architecturepractice.ui.widget.MarqueeText
+                <com.xdroid.architecture.ui.widget.MarqueeText
                     android:id="@+id/toolbar_title"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
